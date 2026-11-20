@@ -1,0 +1,15 @@
+{
+ "camera": "/home/user/Farida-/editorial/inbox/IMG_0188_aac.mov",
+ "w": 2160,
+ "h": 3840,
+ "fps": 29.97002997002997,
+ "duration": 20.785,
+ "log": "none",
+ "lag": 0.0,
+ "face": {
+  "cx": 0.6846,
+  "cy": 0.2725,
+  "top": 0.0828,
+  "chin": 0.4656
+ }
+}

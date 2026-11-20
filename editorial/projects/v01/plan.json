@@ -20,11 +20,12 @@
     },
     {
      "at": 5.2,
-     "t": "қуанып қалдым",
-     "font": "serif",
-     "size": 118,
-     "color": "mint",
-     "y": 745
+     "t": "ҚУАНЫП ҚАЛДЫМ",
+     "font": "grotx",
+     "size": 92,
+     "color": "white",
+     "y": 730,
+     "bg": "black"
     }
    ]
   },
